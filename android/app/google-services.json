@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "685017064905",
+    "firebase_url": "https://awesomeness-8acb3.firebaseio.com",
+    "project_id": "awesomeness-8acb3",
+    "storage_bucket": "awesomeness-8acb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685017064905:android:267d3ba7b3ccc4bf",
+        "android_client_info": {
+          "package_name": "com.awesomeness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685017064905-metgdecrlfei3emqgrd6ptbnduh128vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5iUS_WiTPdhP5V7b5MipysGidauRSJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

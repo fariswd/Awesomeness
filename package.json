@@ -1,0 +1,19 @@
+{
+  "name": "Awesomeness",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@expo/samples": "^1.0.4",
+    "@expo/vector-icons": "^5.0.0",
+    "expo": "^20.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz",
+    "react-native-fbsdk": "^0.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
